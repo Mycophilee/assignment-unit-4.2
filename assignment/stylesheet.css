@@ -1,11 +1,21 @@
-.header {
+header {
     background-color: rgb(255, 251, 127);
-    height: 100px;
-    width: 100px;
+    color:blueviolet;
+    
+
 }
 
-.h2 {
+h2 {
     background-color: rgb(225, 255, 127);
     text-align: center;
     font-size: 1em;
+}
+.info {
+    background-color: rgb(225, 255, 127);
+}
+
+img {
+    align-items: center;
+    width: 100%;
+    height: 100%;
 }
